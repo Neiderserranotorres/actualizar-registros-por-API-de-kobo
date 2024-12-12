@@ -1,0 +1,132 @@
+[
+    {
+        "submission_ids": [
+            624219132
+        ],
+        "data": {
+            "_uuid": "ee417be1-0637-4476-a9bd-36a368271533",
+            "B/Lugar_origenAdm1_DespInterno": "Veracruz",
+            "B/Lugar_origenAdm2_DespInterno": "veracruz",
+            "Pais_residencia_mismo_origen": "No",
+            "C/Ultimo_lugar_residencia_adm1": "Ciudad_de_México",
+            "C/Ultimo_lugar_residencia_adm2": "cuautepec de madero"
+        }
+    },
+    {
+        "submission_ids": [
+            624219145
+        ],
+        "data": {
+            "_uuid": "6b3cc2fb-a8f7-4261-8c6d-78f83a87f263",
+            "B/Lugar_origenAdm1_DespInterno": "Morelos",
+            "B/Lugar_origenAdm2_DespInterno": "ciudad de mexico",
+            "Pais_residencia_mismo_origen": "No",
+            "C/Ultimo_lugar_residencia_adm1": "Ciudad_de_México",
+            "C/Ultimo_lugar_residencia_adm2": "ciudad de mexico"
+        }
+    },
+    {
+        "submission_ids": [
+            624220020
+        ],
+        "data": {
+            "_uuid": "5e8896b5-a790-4126-bd72-11f6b08c4740",
+            "B/Lugar_origenAdm1_DespInterno": "Chiapas",
+            "B/Lugar_origenAdm2_DespInterno": "Tapalapa",
+            "Pais_residencia_mismo_origen": "No",
+            "C/Ultimo_lugar_residencia_adm1": "Nuevo_León",
+            "C/Ultimo_lugar_residencia_adm2": "Monterrey "
+        }
+    },
+    {
+        "submission_ids": [
+            624220029
+        ],
+        "data": {
+            "_uuid": "23cfecec-1269-43ec-b679-426320a439dd",
+            "B/Lugar_origenAdm1_DespInterno": "Estado_de_México",
+            "B/Lugar_origenAdm2_DespInterno": "Santa Ana Zicatecoyan",
+            "Pais_residencia_mismo_origen": "Sí",
+            "C/Ultimo_lugar_residencia_adm1": "",
+            "C/Ultimo_lugar_residencia_adm2": ""
+        }
+    },
+    {
+        "submission_ids": [
+            624221486
+        ],
+        "data": {
+            "_uuid": "c9cb9a8b-7f5d-4f32-97a5-2255785a636f",
+            "B/Lugar_origenAdm1_DespInterno": "Norte_de_Santander",
+            "B/Lugar_origenAdm2_DespInterno": "municipio de sardinata corregimiento de las mercedes",
+            "Pais_residencia_mismo_origen": "No",
+            "C/Ultimo_lugar_residencia_adm1": "Norte_de_Santander",
+            "C/Ultimo_lugar_residencia_adm2": "municipio de cucuta"
+        }
+    },
+    {
+        "submission_ids": [
+            624221533
+        ],
+        "data": {
+            "_uuid": "fa363dcb-2df6-4b85-b79a-b931466a8120",
+            "B/Lugar_origenAdm1_DespInterno": "Norte_de_Santander",
+            "B/Lugar_origenAdm2_DespInterno": "municipio de sardinata corregimiento de las mercedes",
+            "Pais_residencia_mismo_origen": "No",
+            "C/Ultimo_lugar_residencia_adm1": "Norte_de_Santander",
+            "C/Ultimo_lugar_residencia_adm2": "municipio de cucuta"
+        }
+    },
+    {
+        "submission_ids": [
+            624221608
+        ],
+        "data": {
+            "_uuid": "009050e4-7228-4248-820c-160172e56276",
+            "B/Lugar_origenAdm1_DespInterno": "Norte_de_Santander",
+            "B/Lugar_origenAdm2_DespInterno": "Municipio de Tibu",
+            "Pais_residencia_mismo_origen": "Sí",
+            "C/Ultimo_lugar_residencia_adm1": "",
+            "C/Ultimo_lugar_residencia_adm2": ""
+        }
+    },
+    {
+        "submission_ids": [
+            624221618
+        ],
+        "data": {
+            "_uuid": "0db34a63-f8f6-4138-b1aa-cc200d4b88c8",
+            "B/Lugar_origenAdm1_DespInterno": "Norte_de_Santander",
+            "B/Lugar_origenAdm2_DespInterno": "municipio de cucuta zona rural",
+            "Pais_residencia_mismo_origen": "No",
+            "C/Ultimo_lugar_residencia_adm1": "Norte_de_Santander",
+            "C/Ultimo_lugar_residencia_adm2": "municipio de cucuta corregimiento de palmarito"
+        }
+    },
+    {
+        "submission_ids": [
+            624221647
+        ],
+        "data": {
+            "_uuid": "9d934f47-9ce7-44a4-8ed5-85232814d6f8",
+            "B/Lugar_origenAdm1_DespInterno": "Norte_de_Santander",
+            "B/Lugar_origenAdm2_DespInterno": "Municipio de Sardinata, corregimiento la victoria",
+            "Pais_residencia_mismo_origen": "Sí",
+            "C/Ultimo_lugar_residencia_adm1": "",
+            "C/Ultimo_lugar_residencia_adm2": ""
+        }
+    },
+    {
+        "submission_ids": [
+            624221662
+        ],
+        "data": {
+            "_uuid": "9bff233c-08f7-4d0c-85a1-cca139359f7d",
+            "B/Lugar_origenAdm1_DespInterno": "Norte_de_Santander",
+            "B/Lugar_origenAdm2_DespInterno": "municipio de cucuta anillo vial",
+            "Pais_residencia_mismo_origen": "No",
+            "C/Ultimo_lugar_residencia_adm1": "Norte_de_Santander",
+            "C/Ultimo_lugar_residencia_adm2": "municipio de tibu"
+        }
+    }
+]
